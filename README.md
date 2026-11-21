@@ -15,7 +15,6 @@ I created four functions to increase and decrease the image's height and width i
 **Output Screenshot**
 
 ![V1 - Basic Image Size Changer](./Image_Size_Changer_React_main/V1.png)
-
 ### V2 — Image Upload
 
 In this version, I added the option to upload an image from my computer instead of using a fixed image.
