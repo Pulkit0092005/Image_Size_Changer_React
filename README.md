@@ -23,7 +23,7 @@ The uploaded image starts at 100 × 100 pixels. Users can then increase or decre
 
 **Output Screenshot**
 
-![V2 - Image Upload](./V2%20-Image%20Upload/SS2_v2.png)
+![V2 - Image Upload](./React-Image-Size-Changer-main/V2%20-Image%20Upload/SS2_v2.png)
 
 ### V3 — Original Dimensions + Maintain Ratio
 
